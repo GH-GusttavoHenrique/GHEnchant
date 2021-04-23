@@ -9,11 +9,14 @@
 
 # Updates
 
-23/04/2021
+19/04/2021
 - Adicionado um item no inventario mostrando money e exp;
 - Corrigido bug dos acentos;
 - Adicionado comando /setxp;  **Seta o xp do player.**
 - Adicionado comando /addxp;  **Adiciona xp ao player.**
+
+23/04/2021
+- Adicionado sistema que se tiver um encantamento no item ele recusa e manda um mensagem de erro.
 
 # Download
 
