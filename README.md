@@ -18,6 +18,7 @@
 23/04/2021
 - Adicionado sistema que se tiver um encantamento no item ele recusa e manda um mensagem de erro.
 - Adicione isso em sua config: **alreadyenchanted: '&cEste item ja possui o encantamento&f %s&c.'**
+- Neste lugar da config: https://prnt.sc/11xjls2
 
 # Download
 
