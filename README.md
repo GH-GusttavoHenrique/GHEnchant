@@ -1,6 +1,6 @@
 # GHEnchant
 
-NextPlugins: https://nextplugins.com.br/discord
+NextPlugins: [discord](https://nextplugins.com.br/discord).
 
 # Updates
 
@@ -12,5 +12,5 @@ NextPlugins: https://nextplugins.com.br/discord
 
 # Prints do plugin
 
-- Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc)
+- Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc).
 
