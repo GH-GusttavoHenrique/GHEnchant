@@ -7,8 +7,8 @@
 23/04/2021
 - Adicionado um item no inventario mostrando money e exp;
 - Corrigido bug dos acentos;
-- Adicionado comando /setxp;        # Seta o xp do player citado.
-- Adicionado comando /addxp;        # Adiciona xp ao player citado.
+- Adicionado comando /setxp;  **Seta o xp do player.**
+- Adicionado comando /addxp;  **Adiciona xp ao player.**
 
 # Prints do plugin
 
@@ -16,5 +16,5 @@
 
 # Download
 
-Para baixar o plugin GHEncantar clique [aqui](link foda).
+Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
 
