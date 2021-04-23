@@ -1,7 +1,7 @@
 # GHEnchant
 
-**Discord da NextPlugins:** Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
-**Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/igUFE88g).
+- **Discord da NextPlugins:** Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
+- **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/igUFE88g).
 
 # Updates
 
