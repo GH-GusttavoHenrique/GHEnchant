@@ -18,3 +18,6 @@
 
 Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
 
+# Config
+
+A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/igUFE88g).
