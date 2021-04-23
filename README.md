@@ -2,14 +2,15 @@
 
 NextPlugins: https://nextplugins.com.br/discord
 
-UPDATES: 
+# Updates
 
+23/04/2021
 - Adicionado um item no inventario mostrando money e exp;
 - Corrigido bug dos acentos;
 - Adicionado comando /setxp;        # Seta o xp do player citado.
 - Adicionado comando /addxp;        # Adiciona xp ao player citado.
 
-PRINTS:
+# Prints do plugin
 
 - Item mostrando info dos players: https://prnt.sc/11xeaas
 - Comando /setxp: https://prnt.sc/11xebd8
