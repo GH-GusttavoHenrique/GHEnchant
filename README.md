@@ -7,10 +7,6 @@
 
 - Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc).
 
-# Download
-
-Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
-
 # Updates
 
 23/04/2021
@@ -18,3 +14,9 @@ Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenr
 - Corrigido bug dos acentos;
 - Adicionado comando /setxp;  **Seta o xp do player.**
 - Adicionado comando /addxp;  **Adiciona xp ao player.**
+
+# Download
+
+- **ATENÇÃO** Se quando por no servidor e abrir o menu e nao tiver nada, de um reload e a pasta config irá ser criada
+logo mais esse bug será resolvido.
+- Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
