@@ -12,7 +12,5 @@ NextPlugins: https://nextplugins.com.br/discord
 
 # Prints do plugin
 
-- Item mostrando info dos players: https://prnt.sc/11xeaas
-- Comando /setxp: https://prnt.sc/11xebd8
-- Comando /addxp: https://prnt.sc/11xec5x
+- Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc)
 
