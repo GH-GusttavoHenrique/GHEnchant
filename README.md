@@ -1,6 +1,6 @@
 # GHEnchant
 
-NextPlugins: [discord](https://nextplugins.com.br/discord).
+Discord da NextPlugins: Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
 
 # Updates
 
