@@ -1,7 +1,7 @@
 # GHEnchant
 
 - **Discord da NextPlugins:** Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
-- **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/igUFE88g).
+- **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/An3uAzfT).
 
 # Prints do plugin
 
@@ -17,6 +17,7 @@
 
 23/04/2021
 - Adicionado sistema que se tiver um encantamento no item ele recusa e manda um mensagem de erro.
+- Adicione isso em sua config: **alreadyenchanted: '&cEste item ja possui o encantamento&f %s&c.'**
 
 # Download
 
