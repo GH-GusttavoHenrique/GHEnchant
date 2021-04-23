@@ -19,4 +19,5 @@
 
 - **ATENÇÃO** Se quando por no servidor e abrir o menu e nao tiver nada, de um reload e a pasta config irá ser criada
 logo mais esse bug será resolvido.
+
 - Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
