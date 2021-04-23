@@ -14,3 +14,7 @@
 
 - Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc).
 
+# Download
+
+Para baixar o plugin GHEncantar clique [aqui](link foda).
+
