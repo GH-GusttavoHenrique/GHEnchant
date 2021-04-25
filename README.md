@@ -3,7 +3,7 @@
 - **Discord da NextPlugins:** Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
 - **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique aqui [config](https://pastebin.com/An3uAzfT).
 - **Discord do criador do plugin:** Gustavo Henrique#9827
-- **Video demonstrativo** [video](https://www.youtube.com/watch?v=qG6IsD_TS_k)
+- **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=qG6IsD_TS_k) para visualizar o video demonstrativo do plugin.
 
 # Prints do plugin
 
