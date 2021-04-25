@@ -21,9 +21,9 @@
 - Adicione isso em sua config: **alreadyenchanted: '&cEste item ja possui o encantamento&f %s&c.'**
 - Neste lugar da config: https://prnt.sc/11xjls2
 
-# Download
+25/04/2021
+- Arrumado o bug de iniciar o plugin e os encantamentos não aparecer no menu.
 
-- **ATENÇÃO** Se quando por no servidor e abrir o menu e nao tiver nada, de um reload e a pasta config irá ser criada
-logo mais esse bug será resolvido.
+# Download
 
 - Para baixar o plugin GHEncantar clique [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
