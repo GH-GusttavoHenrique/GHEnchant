@@ -1,7 +1,7 @@
 # GHEnchant
 
 - **Discord da NextPlugins:** Loja de plugins free e otimizados? Entre em nosso [discord](https://nextplugins.com.br/discord).
-- **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique no botao [config](https://pastebin.com/An3uAzfT).
+- **Config do GHEnchant** A config do plugin é grande então postei no pastebin, para acessar clique no botao [config](https://pastebin.com/xjUL9HVB).
 - **Discord do criador do plugin:** Gustavo Henrique#9827
 - **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=qG6IsD_TS_k) para visualizar o video demonstrativo do plugin.
 
@@ -23,7 +23,10 @@
 - Neste lugar da config: https://prnt.sc/11xjls2
 
 25/04/2021
-- Arrumado o bug de iniciar o plugin e os encantamentos não aparecer no menu.
+- Corrigido o bug de iniciar o plugin e os encantamentos não aparecer no menu;
+- Corrigido o item que mostra informações no inventario não atualizar;
+- Adicionado opções de configuração no item de informação como: Slot, Nome, Material;
+- Plugin otimizado;
 
 # Download
 
